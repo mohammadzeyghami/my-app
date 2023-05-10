@@ -24,7 +24,7 @@ const ItemSwiper = ({ title, offerPrice, price, img }) => {
           </p>
         </div>
       </div>
-      <div className=" mx-auto rounded-[8px] justify-center hover:bg-[#D60644] w-[130px] bg-white mt-[-20px]   flex  items-center  h-[41px]">
+      <div className=" mx-auto rounded-[8px] justify-center hover:bg-[#D60644] w-[130px] bg-white mt-[-30px] border-gray-300 border-[1px]   flex  items-center  h-[41px]">
         <BsHandbag className="text-[black] text-[14px]  hover:text-white " />
         <p className="text-[16px] cursor-pointer ">اضافه کرده به سبد </p>
       </div>

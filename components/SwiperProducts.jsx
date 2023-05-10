@@ -16,7 +16,7 @@ import { Swipear1, bgSwipear } from "@/public/swiper";
 const SwiperProducts = ({ bg, title }) => {
   return (
     <div className="relative w-[1280px] flex flex-col h-[510px] mb-[50px]  items-center rounded-[8px]">
-      <h2 className="z-20 mb-[40px] mt-[28px] text-[24px] font-bold border-b-4 border-[#D606448A]">
+      <h2 className="z-20 mb-[30px] mt-[28px] text-[24px] font-bold border-b-4 border-[#D606448A]">
         {title}
       </h2>
       <div className="w-full">
