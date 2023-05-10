@@ -31,7 +31,7 @@ const Navbar = ({ active }) => {
         </div>
         <div className="text-[16px] ">
           <Link href="#" className={`${active === 0 ? "active" : ""}`}>
-            درباره ی ما{" "}
+            درباره ی ما |{" "}
           </Link>
           <Link href="#" className={`${active === 1 ? "active" : ""}`}>
             بلاگ |{" "}

@@ -1,3 +1,10 @@
 export { default as Ads } from "./Ads";
 export { default as Navbar } from "./Navbar";
 export { default as Footer } from "./Footer";
+export { default as MainBanner } from "./MainBanner.jsx";
+export { default as SectionProducts } from "./SectionProducts";
+export { default as BestSellProduct } from "./BestSellProduct.jsx";
+export { default as SwiperProducts } from "./SwiperProducts";
+export { default as ItemSwiper } from "./ItemSwiper";
+export { default as Banner } from "./Banner";
+export { default as LastNews } from "./LastNews";
